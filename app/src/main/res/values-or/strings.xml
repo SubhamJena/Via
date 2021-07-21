@@ -93,7 +93,7 @@
     <string name="untitled">ଆଖ୍ୟାବିହୀନ</string>
     <string name="image_auto">କେବଳ Wi-Fi ମାଧ୍ୟମରେ ଛବିଗୁଡ଼ିକ ଦେଖାନ୍ତୁ</string>
     <string name="image_off">ପ୍ରତିଛବିଗୁଡ଼ିକୁ ଅବରୋଧ କର</string>
-    <string name="image_on">ପ୍ରତିଛବିଗୁଡିକ ଦେଖାଅ</string>
+    <string name="image_on">ପ୍ରତିଛବିଗୁଡ଼ିକ ଦେଖାଅ</string>
     <string name="title_file_chooser">File chooser</string>
     <string name="import_bookmarks">Import bookmarks</string>
     <string name="export_bookmarks_to">Export bookmarks to: %1$s</string>
@@ -110,20 +110,20 @@
     <string name="toast_clear_defaults">Please clear defaults</string>
     <string name="toast_copy_url_successful">Link copied successfully</string>
     <string name="toast_copy_text_successful">Text copied successfully</string>
-    <string name="incognito_on">You\'ve gone incognito</string>
-    <string name="incognito_off">Incognito is disabled</string>
+    <string name="incognito_on">ଆପଣ ଅପରିଚିତ ହୋଇଯାଇଛନ୍ତି</string>
+    <string name="incognito_off">ଅପରିଚିତ ମୋଡ୍ ଅକ୍ଷମ ହୋଇଛି</string>
     <string name="operation_none">None</string>
     <string name="operation_reload">Reload</string>
     <string name="operation_top">Scroll to top</string>
     <string name="operation_bottom">Scroll to bottom</string>
-    <string name="operation_input">Input URL</string>
+    <string name="operation_input">URL ଇନପୁଟ୍ କର</string>
     <string name="operation_openbookmark">Open bookmark</string>
     <string name="operation_openhistory">Open history</string>
-    <string name="operation_closetab">Close tab</string>
-    <string name="operation_lasttab">Last tab</string>
-    <string name="operation_nexttab">Next tab</string>
-    <string name="operation_goback">Go back</string>
-    <string name="operation_goforward">Go forward</string>
+    <string name="operation_closetab">ଟ୍ୟାବ୍ ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="operation_lasttab">ଶେଷ ଟ୍ୟାବ୍</string>
+    <string name="operation_nexttab">ପରବର୍ତ୍ତୀ ଟ୍ୟାବ୍</string>
+    <string name="operation_goback">ପଛକୁ ଯାଅ</string>
+    <string name="operation_goforward">ଆଗକୁ ଯାଅ</string>
     <string name="settings_operation">ଅଙ୍ଗଭଙ୍ଗୀ</string>
     <string name="settings_privacy">ଗୋପନୀୟତା</string>
     <string name="settings_advanced">ବିକଶିତ</string>
@@ -137,9 +137,9 @@
     <string name="msg_delete_folder">ଆପଣ ଏହି ଫୋଲ୍ଡର୍ ବିଲୋପ କରିବାକୁ ଚାହାଁନ୍ତି କି?</string>
     <string name="desc_suggestion">ପରାମର୍ଶ</string>
     <string name="desc_home">ଗୃହ</string>
-    <string name="desc_tab">Tab</string>
-    <string name="desc_menu">Menu</string>
-    <string name="desc_filedic">File</string>
+    <string name="desc_tab">ଟ୍ୟାବ୍</string>
+    <string name="desc_menu">ମେନ୍ୟୁ</string>
+    <string name="desc_filedic">ଫାଇଲ୍</string>
     <string name="action_mark">ବିଜ୍ଞାପନ ଭାବରେ ଚିହ୍ନିତ କରନ୍ତୁ</string>
     <string name="dialog_confirm_mark">ଆପଣ ଏହାକୁ ବିଜ୍ଞାପନ ଭାବରେ ଚିହ୍ନିତ କରିବାକୁ ଚାହାଁନ୍ତି କି?</string>
     <string name="do_not_track">Do not track</string>
@@ -151,7 +151,7 @@
     <string name="user">Log in/Sign up</string>
     <string name="user_syns">Sync</string>
     <string name="user_update">Upload</string>
-    <string name="wrong_psw">Wrong password.</string>
+    <string name="wrong_psw">ଭୁଲ ପାସୱାର୍ଡ୍।</string>
     <string name="sign_up_success">Sign up successful</string>
     <string name="code_500">ସେବା ଉପଲବ୍ଦ୍ଧ ନାହିଁ।</string>
     <string name="syns_success">Sync complete</string>
@@ -227,7 +227,7 @@
     <string name="add_script">Add script</string>
     <string name="script_url">Domain or * (* means all)</string>
     <string name="script_code">Code (JavaScript)</string>
-    <string name="help_us_translate">Help us translate</string>
+    <string name="help_us_translate">ଆମକୁ ଅନୁବାଦ କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ</string>
     <string name="confirm_to_leave">ଛାଡ଼ିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ</string>
     <string name="leave">Leave</string>
     <string name="stay">Stay</string>
@@ -272,7 +272,7 @@
     <string name="action_download">Downloads</string>
     <string name="empty_username_info">Please input your username</string>
     <string name="empty_password_info">Please input your password</string>
-    <string name="offline_page_hint">These are saved webpages. You can open them even when you are offline.</string>
+    <string name="offline_page_hint">ଏଗୁଡ଼ିକ ସଞ୍ଚୟ ହୋଇଥିବା ୱେବପୃଷ୍ଠାଗୁଡ଼ିକ। ଆପଣ ଅଫଲାଇନ୍ ଥିଲେ ମଧ୍ୟ ସେଗୁଡ଼ିକୁ ଖୋଲିପାରିବେ।</string>
     <string name="history_page_hint_when_incognito">History will not be recorded when you are in \"Incognito mode\".</string>
     <string name="action_preview">ପୂର୍ବାବଲୋକନ</string>
     <string name="action_page_info">ପୃଷ୍ଠା ସୂଚନା</string>
@@ -357,7 +357,7 @@
         <item quantity="one">1 day ago</item>
         <item quantity="other">%d days ago</item>
     </plurals>
-    <string name="url_is_invalid">The URL is invalid.</string>
+    <string name="url_is_invalid">URL ଅବୈଧ ଅଟେ।</string>
     <string name="simple_guide_of_writing_rule">Via supports almost all Adblock Plus filters.
         \nYou can block requests from example.com with a filter such as:
         \n||example.com^ (or simply: example.com)
@@ -367,7 +367,7 @@
         \nexample.com###ad
         \n\nYou can unblock special requests with a filter such as:
         \n@@||example.com^</string>
-    <string name="help">ସାହାଯ୍ୟ</string>
+    <string name="help">ସହାୟତା</string>
     <string name="learn_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
     <plurals name="filters">
         <item quantity="zero">0 filter</item>
@@ -389,11 +389,11 @@
     <string name="agree_and_continue">Agree</string>
     <string name="disagree">Disagree</string>
     <string name="exit">ପ୍ରସ୍ଥାନ</string>
-    <string name="delete_account">Delete account</string>
-    <string name="delete_account_request_submitted">The account deletion request has been submitted.</string>
-    <string name="delete_account_hint">Delete the account from the server</string>
+    <string name="delete_account">ଆକାଉଣ୍ଟ ବିଲୋପ କରନ୍ତୁ</string>
+    <string name="delete_account_request_submitted">ଖାତା ବିଲୋପ ଅନୁରୋଧ ଦାଖଲ କରାଯାଇଛିି।</string>
+    <string name="delete_account_hint">ସର୍ଭରରୁ ଖାତା ବିଲୋପ କରନ୍ତୁ</string>
     <string name="delete_account_message">After submitting the deletion request, the account will be logged out and enter a 30-day deletion waiting-period. If you log in to the account again and upload data during the waiting-period, your deletion request will be withdrawn. After the waiting-period expires, the account and related data will be completely deleted from the server.\nPlease enter your password to submit the request.</string>
-    <string name="confirm_to_delete">Confirm to delete</string>
+    <string name="confirm_to_delete">ବିଲୋପ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ</string>
     <string name="items_selected">%1d selected</string>
     <string name="select_all">Select all</string>
     <string name="multi_choice">Multi-choice</string>
@@ -402,12 +402,12 @@
         <item quantity="one">Deleted 1 download task</item>
         <item quantity="other">Deleted %d download tasks</item>
     </plurals>
-    <string name="open_source_licenses">Open source licenses</string>
+    <string name="open_source_licenses">ଖୋଲା ଉତ୍ସ ଲାଇସେନ୍ସଗୁଡ଼ିକ</string>
     <string name="debugging_info">ତ୍ରୁଟି ନିବାରଣ ସୂଚନା</string>
-    <string name="join_qq_group">Join QQ group</string>
-    <string name="join_telegram_group">Join Telegram group</string>
-    <string name="follow_me_on_twitter">Follow me on Twitter</string>
-    <string name="follow_me_on_weibo">Follow me on Weibo</string>
+    <string name="join_qq_group">QQ ଗୋଷ୍ଠୀରେ ଯୋଗ ଦିଅନ୍ତୁ</string>
+    <string name="join_telegram_group">Telegram ଗୋଷ୍ଠୀରେ ଯୋଗ ଦିଅନ୍ତୁ</string>
+    <string name="follow_me_on_twitter">Twitterରେ ମୋତେ ଅନୁସରଣ କରନ୍ତୁ</string>
+    <string name="follow_me_on_weibo">Weiboରେ ମୋତେ ଅନୁସରଣ କରନ୍ତୁ</string>
     <string name="version">ସଂସ୍କରଣ</string>
     <string name="paste_and_go">ଲେପନ ଏବଂ ଯାଅ</string>
     <string name="night_filter_for_web_contents">Night filter for web contents</string>
