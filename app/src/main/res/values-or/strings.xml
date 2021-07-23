@@ -59,7 +59,7 @@
     <string name="hint_folder">ଫୋଲ୍ଡର</string>
     <string name="title_edit_bookmark">ବୁକମାର୍କ ସମ୍ପାଦନା</string>
     <string name="action_edit">ଏହାକୁ ସମ୍ପାଦନ କର</string>
-    <string name="action_incognito">Incognito mode</string>
+    <string name="action_incognito">ଅପରିଚିତ ମୋଡ୍</string>
     <string name="action_find">ପୃଷ୍ଠାରେ ଖୋଜି ପାଆନ୍ତୁ</string>
     <string name="download_pending">ଡାଉନଲୋଡ୍ ଆରମ୍ଭ କରୁଅଛି\u2026</string>
     <string name="cannot_download">ଏହା କେବଳ \"http\" କିମ୍ୱା \"https\" URL ରୁ ଡାଉନଲୋଡ୍ ହୋଇପାରିବ।</string>
@@ -105,17 +105,17 @@
     <string name="toast_operation_failed">Operation failed</string>
     <string name="toast_operation_done">Operation completed</string>
     <string name="volume">Use volume keys to scroll</string>
-    <string name="msg_intent">Allow website to open your app?</string>
+    <string name="msg_intent">ୱେବସାଇଟକୁ ଆପଣଙ୍କ ଆପ୍ ଖୋଲିବା ଅନୁମତି ଦେବେ କି?</string>
     <string name="setting_default">Set as default browser</string>
     <string name="toast_clear_defaults">Please clear defaults</string>
-    <string name="toast_copy_url_successful">Link copied successfully</string>
-    <string name="toast_copy_text_successful">Text copied successfully</string>
+    <string name="toast_copy_url_successful">ଲିଙ୍କ୍ ସଫଳତାର ସହ କପି ହୋଇଛି</string>
+    <string name="toast_copy_text_successful">ପାଠ୍ୟ ସଫଳତାର ସହ କପି ହୋଇଛି</string>
     <string name="incognito_on">ଆପଣ ଅପରିଚିତ ହୋଇଯାଇଛନ୍ତି</string>
     <string name="incognito_off">ଅପରିଚିତ ମୋଡ୍ ଅକ୍ଷମ ହୋଇଛି</string>
     <string name="operation_none">None</string>
-    <string name="operation_reload">Reload</string>
-    <string name="operation_top">Scroll to top</string>
-    <string name="operation_bottom">Scroll to bottom</string>
+    <string name="operation_reload">ପୁନଃଲୋଡ୍</string>
+    <string name="operation_top">ଶୀର୍ଷକୁ ସ୍କ୍ରୋଲ୍ କରନ୍ତୁ</string>
+    <string name="operation_bottom">ତଳକୁ ସ୍କ୍ରୋଲ୍ କରନ୍ତୁ</string>
     <string name="operation_input">URL ଇନପୁଟ୍ କର</string>
     <string name="operation_openbookmark">Open bookmark</string>
     <string name="operation_openhistory">Open history</string>
@@ -155,17 +155,17 @@
     <string name="sign_up_success">Sign up successful</string>
     <string name="code_500">ସେବା ଉପଲବ୍ଧ ନାହିଁ।</string>
     <string name="syns_success">Sync complete</string>
-    <string name="upload_success">Upload complete</string>
+    <string name="upload_success">ଅପଲୋଡ୍ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି</string>
     <string name="log_out">Log out?</string>
     <string name="crash_info">କିଛି ଭୁଲ୍ ହୋଇଛି। :(</string>
     <string name="crash_restart">ପୁନଃପ୍ରାରମ୍ଭ</string>
     <string name="crash_close">ବନ୍ଦ</string>
-    <string name="upload_completed">Upload completed</string>
-    <string name="ui_mode">Toolbar UI mode</string>
+    <string name="upload_completed">ଅପଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି</string>
+    <string name="ui_mode">ଉପକରଣ ଦଣ୍ଡିକା UI ମୋଡ୍</string>
     <string name="addon_download">ଡାଉନଲୋଡ୍ ପରିଚାଳକ</string>
-    <string name="quick_back">Go back without reloading</string>
-    <string name="open_with">Open with&#8230;</string>
-    <string name="download_completed">Download completed</string>
+    <string name="quick_back">ପୁନଃଲୋଡ୍ ନକରି ଫେରି ଯାଆନ୍ତୁ</string>
+    <string name="open_with">ସହିତ ଖୋଲନ୍ତୁ&#8230;</string>
+    <string name="download_completed">ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି</string>
     <string name="toast_fullscreen_off">ପୂର୍ଣ୍ଣ-ସ୍କ୍ରିନ୍ ମୋଡ୍ ଛାଡ଼ନ୍ତୁ</string>
 
     <string name="clear_data">Clear data</string>
@@ -195,7 +195,7 @@
     <string name="action_save_web_page">Save page</string>
     <string name="action_saved_pages">Saved pages</string>
     <string name="saved_page_successfully">Webpage has been saved to: Downloads > Saved pages</string>
-    <string name="deleted_failed">Failed to delete. The file is located in download path: </string>
+    <string name="deleted_failed">ବିଲୋପ କରିବାରେ ବିଫଳ ହୋଇଛି। ଫାଇଲ୍ ଡାଉନଲୋଡ୍ ପଥରେ ଅବସ୍ଥିତ: </string>
 
     <string name="empty_hint">Empty</string>
 
@@ -247,7 +247,7 @@
     <string name="find_pre">Find last</string>
     <string name="action_open_in_background">Open in background</string>
     <string name="cannot_work">It can only work with \"http\" or \"https\" URLs.</string>
-    <string name="action_fullscreen">Full-screen</string>
+    <string name="action_fullscreen">ପୂର୍ଣ୍ଣ-ସ୍କ୍ରିନ୍</string>
     <string name="settings_general">ସାଧାରଣ</string>
     <string name="no_bookmark">No bookmarks</string>
     <string name="import_or_export_bookmarks">Import/export bookmarks</string>
@@ -257,8 +257,8 @@
     <string name="toolbar_settings_hint">Press a selected button below to set its long-press action, or long-press it to check what action has been set. You can also slide the toolbar to set the slide action.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gestures, shortcuts, function keys</string>
-    <string name="adblock_info">Enabled: %1$d ads blocked, %2$s saved</string>
-    <string name="disable">Disabled</string>
+    <string name="adblock_info">ସକ୍ଷମ ହୋଇଛି: %1$dଟି ବିଜ୍ଞାପନ ଅବରୋଧ ହୋଇଛି, %2$s ସଞ୍ଚୟ ହୋଇଛି</string>
+    <string name="disable">ଅକ୍ଷମ ହୋଇଛି</string>
     <string name="ui_traditional">Sandwich</string>
     <string name="color_mode_hint">Auto-adjust color of toolbars</string>
     <string name="skin_hide_search_part">Hide search part</string>
@@ -313,7 +313,7 @@
     <string name="block_popup_message">Blocked pop-up window</string>
     <string name="allow_popup">Allow once</string>
     <string name="system_download_manager">System download manager</string>
-    <string name="action_play_with">Play with&#8230;</string>
+    <string name="action_play_with">ସହ ଚାଳନ କରନ୍ତୁ&#8230;</string>
     <string name="show_sniffer_btn_automatically">Show sniffer button automatically</string>
     <string name="open_file_failed">Unable to find associated app to open file</string>
     <string name="cloud_data_server">Cloud data server</string>
@@ -384,10 +384,10 @@
     <string name="privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
     <string name="terms_of_use">ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ</string>
     <string name="welcome">ସ୍ବାଗତ</string>
-    <string name="agreement_message">Welcome to Via. Please read the following agreement carefully before using Via. You need to agree to and accept all the terms and conditions before you start using our service.</string>
-    <string name="agreement_message_short">You need to agree and accept all the terms before you start using our service.</string>
-    <string name="agree_and_continue">Agree</string>
-    <string name="disagree">Disagree</string>
+    <string name="agreement_message">Viaକୁ ସ୍ଵାଗତ। ଦୟାକରି Via ବ୍ୟବହାର କରିବା ପୂର୍ବରୁ ନିମ୍ନଲିଖିତ ଚୁକ୍ତିନାମାକୁ ଯତ୍ନର ସହ ପଢ଼ନ୍ତୁ। ଆପଣ ଆମର ସେବା ବ୍ୟବହାର କରିବା ଆରମ୍ଭ କରିବା ପୂର୍ବରୁ ଆପଣ ସମସ୍ତ ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ ରେ ରାଜି ହେବା ଏବଂ ଗ୍ରହଣ କରିବା ଆବଶ୍ୟକ।</string>
+    <string name="agreement_message_short">ଆପଣ ଆମର ସେବା ବ୍ୟବହାର କରିବା ଆରମ୍ଭ କରିବା ପୂର୍ବରୁ ଆପଣ ସମସ୍ତ ସର୍ତ୍ତାବଳୀ ସହମତ ଏବଂ ଗ୍ରହଣ କରିବା ଆବଶ୍ୟକ।</string>
+    <string name="agree_and_continue">ରାଜି</string>
+    <string name="disagree">ରାଜି ନୁହେଁ</string>
     <string name="exit">ପ୍ରସ୍ଥାନ</string>
     <string name="delete_account">ଆକାଉଣ୍ଟ ବିଲୋପ କରନ୍ତୁ</string>
     <string name="delete_account_request_submitted">ଖାତା ବିଲୋପ ଅନୁରୋଧ ଦାଖଲ କରାଯାଇଛିି।</string>
@@ -413,7 +413,7 @@
     <string name="night_filter_for_web_contents">Night filter for web contents</string>
     <string name="force_dark_mode_for_web_contents">Force dark operation for web contents</string>
     <string name="force_dark_mode_for_web_contents_description">When enabled, webpages will be forced to darken, which may cause some pages to behave abnormally.</string>
-    <string name="require_javascript_enabled">This will take effect if JavaScript is enabled.</string>
+    <string name="require_javascript_enabled">ଯଦି JavaScript ସକ୍ଷମ ହୁଏ ତେବେ ଏହା କାର୍ଯ୍ୟକାରୀ ହେବ।</string>
     <string name="keyboard_shortcuts">Keyboard shortcuts</string>
     <string name="export_data_description">Export bookmarks, settings, scripts and ad filters</string>
     <string name="language">ଭାଷା</string>
@@ -423,24 +423,24 @@
     <string name="sort_by_oldest_first">Oldest first</string>
     <string name="sort_by_newest_first">Newest first</string>
     <string name="sort_by_alphabetical_order">Alphabetical order</string>
-    <string name="select_folder">Select folder</string>
+    <string name="select_folder">ଫୋଲ୍ଡର୍ ଚୟନ କରନ୍ତୁ</string>
     <string name="move">ଘୁଞ୍ଚାନ୍ତୁ</string>
     <string name="bookmarks_history">Bookmarks/History</string>
     <string name="done">ସମାପ୍ତ</string>
     <string name="root_folder">ମୂଳ ଫୋଲ୍ଡର୍</string>
-    <string name="delete_item_message">Are you sure you want to delete %1$s?</string>
-    <string name="item_has_been_deleted">\"%1$s\" has been deleted</string>
+    <string name="delete_item_message">ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ %1$sକୁ ବିଲୋପ କରିବାକୁ ଚାହାଁନ୍ତି?</string>
+    <string name="item_has_been_deleted">\"%1$s\" ବିଲୋପ ହୋଇଛି</string>
     <string name="undo">Undo</string>
     <string name="can_not_sort_list_when_sorting_alphabetically">Can not sort the list when sorting alphabetically</string>
     <string name="opened_in_background_message">New tab opened in the background</string>
     <string name="bookmark_added">Bookmark added</string>
-    <string name="allow_website_to_open_app_message">Allow website to open %1$s?</string>
+    <string name="allow_website_to_open_app_message">ୱେବସାଇଟକୁ %1$s ଖୋଲିବା ଅନୁମତି ଦେବେ କି?</string>
     <string name="width">ଓସାର</string>
     <string name="height">ଉଚ୍ଚତା</string>
     <string name="corner_radius">କୋଣ ବ୍ୟାସାର୍ଦ୍ଧ</string>
     <string name="adaptive">Adaptive</string>
     <string name="action_favorites">ପସନ୍ଦିତା</string>
-    <string name="skin_search_bar">Search bar</string>
+    <string name="skin_search_bar">ସନ୍ଧାନ ଦଣ୍ଡିକା</string>
     <string name="stroke_width">Border width</string>
     <string name="stroke_opacity">Border opacity</string>
     <string name="opacity">Opacity</string>
@@ -462,7 +462,7 @@
     \n\nRemarks(optional): Used as the title of the display.
     \n\nCode(required): It is recommended to use native JavaScript. You can also use jqeury or vue.js syntax if the website uses those frameworks.</string>
     <string name="save_data">ଡାଟା ସଞ୍ଚୟ କରନ୍ତୁ</string>
-    <string name="save_data_description">Enable data-savings mode on compatible websites</string>
+    <string name="save_data_description">ସୁସଙ୍ଗତ ୱେବସାଇଟଗୁଡ଼ିକରେ ଡାଟା-ସଞ୍ଚୟ ମୋଡ୍ ସକ୍ଷମ କରନ୍ତୁ</string>
     <string name="use_line_style_search_box">Use line style search box</string>
     <string name="toast_script_added">Script added successfully</string>
     <string name="action_manage_favorites">ପସନ୍ଦିତା ପରିଚାଳକ</string>
