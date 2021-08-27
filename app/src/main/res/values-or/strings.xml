@@ -130,7 +130,7 @@
     <string name="settings_about">ବିଷୟରେ</string>
     <string name="url_box">URL କ୍ଷେତ୍ର ବିଷୟବସ୍ତୁ</string>
     <string name="url_box_domain">Domain</string>
-    <string name="action_pcview">Desktop site</string>
+    <string name="action_pcview">ଡେସ୍କଟପ୍ ସାଇଟ୍</string>
     <string name="action_source">ଉତ୍ସ ଦେଖନ୍ତୁ</string>
     <string name="action_translate">ଅନୁବାଦ କର</string>
     <string name="title_edit_folder">ଫୋଲ୍ଡର୍ ସମ୍ପାଦନ କରନ୍ତୁ</string>
@@ -143,7 +143,7 @@
     <string name="action_mark">ବିଜ୍ଞାପନ ଭାବରେ ଚିହ୍ନିତ କରନ୍ତୁ</string>
     <string name="dialog_confirm_mark">ଆପଣ ଏହାକୁ ବିଜ୍ଞାପନ ଭାବରେ ଚିହ୍ନିତ କରିବାକୁ ଚାହାଁନ୍ତି କି?</string>
     <string name="do_not_track">Do not track</string>
-    <string name="add_rule">Add filter</string>
+    <string name="add_rule">ଶୋଧକ ଯୋଡ଼ନ୍ତୁ</string>
     <string name="color_mode">ରଙ୍ଗ ମୋଡ୍</string>
     <string name="dialog_sure">ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆଗକୁ ବଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି?</string>
     <string name="action_send_to_launcher">Launcher କୁ ପଠାନ୍ତୁ</string>
